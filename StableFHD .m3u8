@@ -1,0 +1,129 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",Первый HD
+http://flu.ttk.mx:90/Pervy_HD/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные",Россия 1 HD
+http://flu.ttk.mx:90/Russia_HD/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч! HD
+http://flu.ttk.mx:90/Match_HD/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ HD
+http://flu.ttk.mx:90/TNT_HD/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Русский кинозал",Дом кино Премиум HD
+http://flu.ttk.mx:90/Dom_kino_premium/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="Русский кинозал",Русский роман
+http://flu.ttk.mx:90/Russki_roman_HD/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Кинозал",Кино ТВ HD
+http://flu.ttk.mx:90/avl_test_3/mono.m3u8?token=hs06e
+#EXTINF:-1,Кинопремьера
+http://flu.ttk.mx:90/Kinopremiera/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-id="nashe-muzhskoe-hd" tvg-logo="https://iptvx.one/picons/nashe-muzhskoe-hd.png" group-title="Русский кинозал",Наше Мужское
+http://flu.ttk.mx:90/Muzhskoe_Kino/mono.m3u8?token=hs06e
+#EXTINF:-1,А-2
+http://flu.ttk.mx:90/A-2/mono.m3u8?token=hs06e
+#EXTINF:-1,RU.TV
+http://flu.ttk.mx:90/RU.TV/mono.m3u8?token=hs06e
+#EXTINF:-1,Живая Природа HD
+http://flu.ttk.mx:90/Zhivaya_Priroda_HD/mono.m3u8?token=hs06e
+#EXTINF:-1,Моя планета HD
+http://flu.ttk.mx:90/Planeta_HD/mono.m3u8?token=hs06e
+#EXTINF:-1,Телеканал 360 HD
+http://flu.ttk.mx:90/360_HD/mono.m3u8?token=hs06e
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
+http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs06e
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
+http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs06e
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD
+http://flu.ttk.mx:90/Football_3HD/mono.m3u8?token=hs06e
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Развлекательные",Пятница! (HD)
+https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Развлекательные",Пятница! (HD)
+http://178.217.99.130:12345/ch337.m3u8
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Спортивные",Eurosport 1 (HD)
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Спортивные",Eurosport 1 HD
+http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="Спортивные",Матч! Футбол 1 HD
+http://109.200.130.124:7005/play/a00h
+#EXTINF:-1,Eurosport 1HD
+http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/5075/index.m3u8
+#EXTINF:-1,ТНТ HD
+http://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8#_onlinetv_NoName_IPTV_BY
+#EXTINF:-1,СТС HD
+http://livetv.mylifeisgood.net.ru/channels/sts.m3u8#_onlinetv_NoName_IPTV_BY
+#EXTINF:-1,Россия 1 HD
+http://livetv.mylifeisgood.net.ru/channels/russia1.m3u8#_onlinetv_NoName_IPTV_BY
+#EXTINF:-1,РЕН ТВ HD
+http://livetv.mylifeisgood.net.ru/channels/rentv.m3u8#_onlinetv_NoName_IPTV_BY
+#EXTINF:-1,Пятница HD
+http://livetv.mylifeisgood.net.ru/channels/friday.m3u8#_onlinetv_NoName_IPTV_BY
+#EXTINF:-1,Первый канал HD
+http://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8#_onlinetv_NoName_IPTV_BY
+#EXTINF:-1,Матч ТВ HD
+http://91.205.199.3:80/matchtvhd/index.m3u8#_onlinetv_NoName_IPTV_BY
+#EXTINF:-1,Кинохит HD
+http://91.205.199.3:80/kinoxithd/index.m3u8#_onlinetv_NoName_IPTV_BY
+#EXTINF:-1,Кино ТВ HD
+http://91.205.199.3:80/kinotvhd/index.m3u8#_onlinetv_NoName_IPTV_BY
+#EXTINF:-1,Eurosport 2 HD
+http://cdn.admuspeh.my/8163/video.m3u8?token=NWG6Wj6WEdNrhWCT
+#EXTINF:-1,Eurosport 1 HD
+http://cdn.admuspeh.my/8178/video.m3u8?token=NWG6Wj6WEdNrhWCT
+#EXTINF:-1,Eurosport 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/234/index.m3u8
+#EXTINF:-1,Матч! Премьер HD 50
+http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/10021/index.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD 50 orig
+http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/5071/index.m3u8
+#EXTINF:-1,Матч! Футбол 2 HD 50
+http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/10027/index.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD 50 orig
+http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/5072/index.m3u8
+#EXTINF:-1,НТВ HD
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1,Home 4K
+http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Пятница
+http://cdn.admuspeh.my/8066/video.m3u8?token=NWG6Wj6WEdNrhWCT
+#EXTINF:-1,НТВ HD
+http://cdn.admuspeh.my/8156/video.m3u8?token=NWG6Wj6WEdNrhWCT
+#EXTINF:-1,Матч! Футбол 3 HD
+http://cdn.admuspeh.my/8238/video.m3u8?token=NWG6Wj6WEdNrhWCT
+#EXTINF:-1,Матч! Футбол 2 HD
+http://cdn.admuspeh.my/8237/video.m3u8?token=NWG6Wj6WEdNrhWCT
+#EXTINF:-1,Матч! Футбол 1 HD
+http://cdn.admuspeh.my/8236/video.m3u8?token=NWG6Wj6WEdNrhWCT
+#EXTINF:-1,Матч! Премьер
+http://cdn.admuspeh.my/8023/video.m3u8?token=NWG6Wj6WEdNrhWCT
+#EXTINF:-1,Матч! Арена
+http://cdn.admuspeh.my/8018/video.m3u8?token=NWG6Wj6WEdNrhWCT
+#EXTINF:-1,Eurosport 1 HD
+http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
+#EXTINF:-1,TLC HD
+http://45.159.74.14/TLC/tracks-v1a2/mono.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
+#EXTINF:-1,Eurosport 4K
+https://7pal.short.gy/eusport4k
+#EXTINF:-1,Love Nature 4k
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,Animal Planet HD
+http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
+#EXTINF:-1,Discovery HD
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:-1,Discovery
+https://stream01.vnet.am/DiscoveryChannel/mono.m3u8
+#EXTINF:-1,ТНТ (HD)
+http://185.23.80.29:8080/TNT_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,Матч! Арена HD
+http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjUgODowOToxNSBQTSZoYXNoX3ZhbHVlPUpMT3B3em84dS94TTE1d1NuSisyK2c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1,Матч Премьер HD
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjUgODowOToxNSBQTSZoYXNoX3ZhbHVlPUpMT3B3em84dS94TTE1d1NuSisyK2c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1,Матч ТВ HD
+http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjUgODowOToxNSBQTSZoYXNoX3ZhbHVlPUpMT3B3em84dS94TTE1d1NuSisyK2c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1,Матч! Футбол 3 HD
+http://95.181.17.14/dvr02/mobile1/NTVplusfut3HD/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjUgODowOToxNSBQTSZoYXNoX3ZhbHVlPUpMT3B3em84dS94TTE1d1NuSisyK2c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1,Матч! Футбол 2 HD
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjUgODowOToxNSBQTSZoYXNoX3ZhbHVlPUpMT3B3em84dS94TTE1d1NuSisyK2c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1,Матч! Футбол 1 HD
+http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjUgODowOToxNSBQTSZoYXNoX3ZhbHVlPUpMT3B3em84dS94TTE1d1NuSisyK2c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1,InvestigationDiscovery
+http://45.159.74.14/InvestigationDiscovery/tracks-v1a2/mono.m3u8
